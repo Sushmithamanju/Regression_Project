@@ -1,0 +1,13 @@
+ipython
+jupyter
+matplotlib
+mlflow
+pandas
+requests
+seaborn
+streamlit
+sqlalchemy
+pandas-profiling
+sqlite3
+sklearn
+matplotlib
